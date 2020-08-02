@@ -1,0 +1,31 @@
+.navbar{
+	background: green;
+	font-family: 'arial';
+	margin-top: -22px;
+	padding: 0px;
+}
+
+.navbar h1{
+	color: white;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*section input[type="submit"]{
+	border-radius: 25px;
+}*/

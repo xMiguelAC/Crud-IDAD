@@ -1,0 +1,11 @@
+.navbar{
+	background: green;
+	font-family: 'arial';
+	margin-top: -22px;
+	padding: 0px;
+}
+
+h1{
+	color: white;
+	text-align: center;
+}
